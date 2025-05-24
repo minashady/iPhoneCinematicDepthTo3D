@@ -1,0 +1,3 @@
+newmtl FaceTexture
+map_Kd ezgif-frame-030.png
+disp ./output/ezgif-frame-030/ezgif-frame-030_normals.png
